@@ -69,9 +69,6 @@
     p{
         font-size: 40px;
         font-weight: bold;
-        font-family: "Special Elite", system-ui;
-        font-weight: 400;
-        font-style: normal;
     }
     a{
         font-size: 100px;
@@ -151,6 +148,7 @@ p{
     background-color: rgba(0, 0, 0, 0.5); /* Fond noir semi-transparent */
     padding: 10px;
     border-radius: 15px;
+    font-family: "Special Elite";
 }
 .présentation{
     width: 80%;
