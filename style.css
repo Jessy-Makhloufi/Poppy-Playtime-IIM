@@ -83,10 +83,6 @@
         max-width: 100%;
         height: auto;
     }
-    img{
-        width: 100px;
-        height:100px;
-    }  
 }
 footer{
     background-color: rgba(0, 0, 0, 0.8);
