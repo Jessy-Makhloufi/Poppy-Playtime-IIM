@@ -169,6 +169,7 @@ p{
     align-items: flex-start;
     align-items: left;
     justify-content: space-evenly;
+    font-weight: bold;
     gap: 20px;
 }
 .sous_bloc1{
