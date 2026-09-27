@@ -291,11 +291,6 @@ iframe{
     gap: 20px;
     align-items: center;
 }
-.rick{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 .jeux{
     display: flex;
     flex-direction: row;
